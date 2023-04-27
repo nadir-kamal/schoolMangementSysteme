@@ -1,0 +1,26 @@
+/* Changer la couleur de fond pour bg-secondary */
+.bg-secondary {
+    background-color: #6c757d !important;
+}
+
+/* Changer la couleur de fond pour copyright */
+.copyright {
+    background-color: #343a40;
+}
+
+/* Changer la couleur de fond pour bg-primary */
+.bg-primary {
+    background-color: #0d6efd !important;
+}
+
+/* Changer la police pour nav */
+nav {
+    font-weight: 600;
+}
+
+/* Modifier la taille de l'image pour img-card */
+.img-card {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
